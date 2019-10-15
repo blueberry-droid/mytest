@@ -1,3 +1,5 @@
 # mytest
 test
-ceci est une modification en local à publier en ligne
+ceci est une modification en local Ã  publier en ligne
+
+et maintenant on modifie depuis github
